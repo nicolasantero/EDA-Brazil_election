@@ -5,6 +5,7 @@ anaconda-navigator==1.9.12
 anaconda-project==0.8.3
 appdirs==1.4.4
 argh==0.26.2
+asgiref==3.2.10
 asn1crypto==1.3.0
 astor==0.8.1
 astroid @ file:///C:/ci/astroid_1592487315634/work
@@ -56,6 +57,7 @@ descartes==1.1.0
 diff-match-patch @ file:///tmp/build/80754af9/diff-match-patch_1594828741838/work
 distlib==0.3.1
 distributed @ file:///C:/ci/distributed_1594742844291/work
+Django==3.1.2
 docutils==0.15.2
 entrypoints==0.3
 enum-compat==0.0.3
@@ -74,6 +76,7 @@ h5py==2.10.0
 HeapDict==1.0.1
 html5lib @ file:///tmp/build/80754af9/html5lib_1593446221756/work
 idna @ file:///tmp/build/80754af9/idna_1593446292537/work
+image==1.5.32
 imageio @ file:///tmp/build/80754af9/imageio_1594161405741/work
 imagesize==1.2.0
 importlib-metadata @ file:///C:/ci/importlib-metadata_1593446511143/work
@@ -222,6 +225,7 @@ sphinxcontrib-websupport @ file:///tmp/build/80754af9/sphinxcontrib-websupport_1
 spyder @ file:///C:/ci/spyder_1594830825244/work
 spyder-kernels @ file:///C:/ci/spyder-kernels_1594751670175/work
 SQLAlchemy @ file:///C:/ci/sqlalchemy_1593445271541/work
+sqlparse==0.4.1
 statsmodels==0.11.1
 streamlit==0.65.2
 sympy @ file:///C:/ci/sympy_1594234545115/work
